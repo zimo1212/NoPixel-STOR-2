@@ -1,0 +1,18 @@
+// أضف منتجاتك هنا. لا تحتاج لتعديل store.html.
+// category: cars | houses | buildings | memberships | other
+const products = [
+  {
+    name: "فيلا فاخرة",
+    category: "houses",
+    price: "5000 دج",
+    image: "assets/products/houses/villa1.jpg",
+    description: "فيلا مع مسبح وموقف سيارات"
+  }
+];
+{
+  name: "مبنى تجريبي",
+  category: "buildings",
+  price: "5000 دج",
+  image: "assets/products/buildings/building1.jpg",
+  description: "مبنى فاخر"
+},
